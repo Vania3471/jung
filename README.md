@@ -2,5 +2,5 @@
 # Репозиторий GitHub открыт для всеобщего пользования, поэтому, если кому-то нужен будет сайт, то базовая оболочка сайта уже готова
 
 link = "example.com"
-text = "https://vania3471.github.io/jung/"
+text = https://vania3471.github.io/jung/
 print(f"<a href=\"{link}\">{text}</a>")
